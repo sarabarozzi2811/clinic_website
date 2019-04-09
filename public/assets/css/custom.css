@@ -1,0 +1,491 @@
+#pre-header {
+  display: none;
+}
+
+#header {
+  position: relative;
+  height: 300px;
+  top: -30px;
+  transition: all 0.2s ease 0s;
+  width: 100%;
+}
+
+#logoIniziale{
+  max-width: 40%;
+}
+#hornav .container {
+  background-color: #33747a;
+}
+
+#hornav ul#hornavmenu {
+  background: #33747a;
+}
+#hornav ul#hornavmenu > li > a.active{
+  background: #33747a;
+}
+
+#hornav ul#hornavmenu > li > a:hover,
+#hornav ul#hornavmenu > li > span:hover,
+#hornav ul#hornavmenu > li > span.active,
+#hornav ul#hornavmenu > li > a.current,
+#hornav ul#hornavmenu > li > span.current {
+
+  background: #3c8990;
+}
+
+
+#hornav .container {
+box-shadow: 0 -4px 0 rgba(50, 84, 74, 0.01) inset, 0 0 20px rgba(0, 0, 0, 0.1);}
+
+/*risistema dimensione menu*/
+#hornav ul#hornavmenu > li > a, #hornav ul#hornavmenu > li > span {
+    color: #e3e3e3;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: normal;
+    padding: 19px 13px 20px;
+    text-transform: uppercase;
+    display: block;
+}
+
+
+/*icone menu*/
+
+.fa-comment:before {
+    content: "\f0fa";
+}
+
+.fa-gears:before {
+    content: "\f004";
+}
+.fa-copy:before {
+    content: "\f0f0";
+}.fa-th:before {
+    content: "\f041";
+}.fa-font:before {
+    content: "\f05a";
+}
+
+/* icone sotto le immagini che scorrono*/
+
+.fa-gears:before, .fa-cogs:before {
+    content: "\f0f9";
+}
+
+.fa-cloud-download:before {
+    content: "\f0ce";
+}
+
+.fa-bar-chart-o:before, .fa-bar-chart:before {
+    content: "\f08d";
+}
+
+
+/*make an appointment*/
+.animated.flipInY {
+
+    background-color: #33747a;
+}
+
+.panel-title {
+
+    color: #f4f4f4;
+}
+
+/*parte bassa*/
+#base {
+    background:#33747a
+}
+
+#footer {
+    background: #245256}
+
+a {
+    color: #e6e6e6
+}
+
+#somethingonus{
+    margin: 0 0 30
+}
+
+.padding-top-40 {
+    padding-top: 25px;
+}
+
+/*parte in basso*/
+.fa-coffee:before {
+    content: "\f0f1";
+}
+
+.fa-tasks:before {
+    content: "\f044";
+}
+
+
+
+/*modifice della barra laterale nella pag delle locationd*/
+
+.sidebar-nav-docbyloc li {
+
+        padding: 10;
+    width: px;
+}
+
+
+.accordion-toggle-docbyloc {
+    width:323px;
+}
+
+.blog-docbyloc{
+    padding-top:15px;
+        padding-bottom:10px;
+}
+
+.blog-post-docbyloc{
+    margin bottom: 0px
+}
+
+.list-group-docbyloc {
+    margin-bottom: 20px;
+    padding-left: 0;
+
+}
+
+.padding-bottom-20-docbyloc {
+    padding-bottom: 0px;
+}
+
+.list-group-item-docbyloc {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #f0f0f0;
+
+    border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+a-docbyloc {
+    color: rgba(85, 85, 85, 0.73);
+}
+
+#docname {
+    padding: 10px;
+}
+
+
+/*customixe map*/
+
+
+.map {
+  padding-left: 10px;
+  height: 250px;
+  width: 700px;
+  border: none;
+}
+
+.descrizione{
+  margin-top: 20px;
+  text-align: left;
+}
+
+.info{
+  padding-left: 10px;
+}
+
+#specialization{
+  text-align: left;
+}
+
+#specs{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+ .row{
+   margin-left: -10px;
+   margin-right: -10px;
+ }
+
+#bottone{
+  padding-top: 6%;
+}
+
+/*pagdeldoc*/
+#dl-horizontal-docpresentation dt {
+
+    text-align: left;
+}
+
+#docapointment {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#transitiontitle {
+    transition: color 0.15s ease-in;
+}
+
+#sottolineamelo:hover {
+    text-decoration: underline
+}
+#backroungpill {
+    background-color: #f4f4f4;
+}
+.mappa {
+     height: 150px;
+
+  border: none;
+}
+
+/*servicepage*/
+
+#avvertenze{
+  padding-left: 0;
+}
+
+#exclamation{
+  width: 75%;
+}
+
+#robo_dottori{
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+#itemheaderdoc{
+    margin-bottom: -10px;
+}
+
+#itemheaderdoc{
+    margin-bottom: -10px;
+}
+
+.dl-horizontal dd{
+  margin-bottom: 10px;
+}
+
+.dl-horizontal dt{
+  margin-bottom: 10px;
+}
+
+#registrationfrom {
+    color :#42969e;
+  }
+
+.blog-post-date a {
+    color: azure;
+}
+
+@media screen and (max-width: 1200px) {
+  	/* #menu is the original menu */
+  	 #hornav {
+  		display:none;
+  	}
+}
+
+/*
+@media screen and (min-width: 1200px) {
+  	.js .slicknav_menu {
+  		display:none;
+  	}
+}
+*/
+
+#specialh3 {
+    margin-left: 0px;
+}
+
+#h3color{
+   color: #656565;
+}
+
+#bordecentro {
+  text-align: center;
+        padding-top: 0px;
+}
+
+
+#docimagebottom{
+    width: 80%;
+}
+
+#blogpostbody{
+    margin-bottom: 7%;
+}
+
+#coloreelencoservizi{
+    color:#676767;
+}
+
+.listanelmenu{
+     cursor: pointer;
+    cursor: hand;
+}
+
+.sparisco{
+    display: none;
+}
+
+.is-sticky{
+  padding-left: 10px
+}
+
+@media screen and (max-width: 1200px) {
+    #header {
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+.inboxwriting101{
+  display:none;
+}
+}
+
+@media screen and (max-width: 900px) {
+  	/* #menu is the original menu */
+  	#header {
+  		height: 175px;
+  	}
+}
+
+@media screen and (max-width: 800px) {
+  	/* #menu is the original menu */
+  	 #header {
+  		height: 200px;
+  	}
+
+        #logoIniziale{
+        max-width: 50%;
+    }
+
+  	 .map {
+        width: 500px;
+  	}
+
+    .sparisco{
+        display: block;
+    }
+
+    .robaadestratuttiidottori{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 750px) {
+  	/* #menu is the original menu */
+  	 .inboxtitle101 {
+  		font-size: 10px;
+  	}
+  }
+
+
+@media screen and (max-width: 550px) {
+  	/* #menu is the original menu */
+  	 #header {
+  		height: 150px;
+  	}
+
+     .map {
+        width: 350px;
+  		height: 100px;
+  	}
+
+
+     .inboxtitle101 {
+      display: none;
+    }
+
+    .testoservizio{
+        padding-top: 50px;
+    }
+
+    #exclamation{
+        display:none;
+    }
+
+    .colexclamation{
+        display:none;
+    }
+
+    .colonnaprincipaledottori{
+         margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #itemheaderdoc{
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+  	/* #menu is the original menu */
+  	 #header {
+  		height: 80px;
+  	}
+
+    .testohome{
+        font-size: 20px;
+    }
+
+        .testohome2{
+        display: none;
+    }
+
+    .collistadottore{
+        display: none;
+    }
+
+    #robo_dottori{
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .map2 {
+        width: 250px;
+  		height: 150px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+  	/* #menu is the original menu */
+  	 #header {
+  		height: 60px;
+  	}
+        .map {
+        width: 300px;
+  		height: 125px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+  	/* #menu is the original menu */
+  	 #header {
+  		height: 80px;
+  	}
+    #logoIniziale{
+        max-width: 70%;
+    }
+
+           .mappa {
+        width: 250px;
+  		height: 125px;
+  	}
+
+    .map {
+        width: 250px;
+  		height: 125px;
+    }
+
+    .map2 {
+        width: 150px;
+  		height: 100px;
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://matteoguidi@bitbucket.org/polimihyp2017team10587667/polimi-hyp-2017-project.git",
+  "author": "Matteo Guidi <matteo1.guidi@mail.polimi.it>",
+  "engines": {
+    "node": ">= 7.5.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "knex": "0.13.0",
+    "lodash": "4.17.4",
+    "pg": "6.2.4",
+    "sqlite3": "3.1.8"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

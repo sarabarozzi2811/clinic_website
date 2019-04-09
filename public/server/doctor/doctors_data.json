@@ -1,0 +1,138 @@
+{
+    "doctor": [
+        {
+            "id": 1,
+            "firstname": "Mike",
+            "lastname": "Hammond",
+            "image": "assets/img/profiles/uomo1.jpg",
+            "description": "<p>POST GRADUATE CLINICAL TRAINING - ROYAL NATIONAL ORTHOPAEDIC HOSPITAL, STANMORE, MIDDLESEXADDITIONAL CLINICAL TRAINING - BOSTON, TORONTO, MILANO<br> Fellow of the College of Surgeons of South Africa (Ophthalmology) 1995<br> Marcus was appointed Consultant Orthopaedic Surgeon at Guy's and St Thomas' Foundation NHS Trust in 2002.On taking up his Consultant post, Marcus has developed a specialist practice treating young adult hip disorders. He performs over 400 major hip cases per year, nearly half of which are arthroscopic.<br> Part time private practice since 2000<br></p>",
+            "description_speciality": "<p>Orthopaedics</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p> <ul><li>Monday: 8.00-13.00</li>                    <li>Tuesday: 8.00-20.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>                    </ul>",
+            "contact": "<ul><li>Phone:020 3195 2442</li><li>E-mail: bankes@fortiusclinic.com</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": 1,
+            "services": 1
+    },
+        {
+            "id": 2,
+            "firstname": "John",
+            "lastname": "Doe",
+            "image": "assets/img/profiles/uomo2.png",
+            "description": "<p>Mr John Doe is a Consultant Orthopaedic surgeon with a special interest in hip and knee surgery. He completed basic surgical training in the UK, becoming a Member of the Royal College of Surgeons [MRCS(eng)] in 2006.  His higher specialist training in Orthopaedics was on the North Western and Middlesex/University College Hospital rotations, achieving a Fellowship of the Royal College of Surgeons in Trauma and Orthopaedic Surgery [FRCS(Tr&Orth) in 2013. He has gained several prizes, scholarships and awards during his training, and has been awarded prestigious travelling fellowships by British Orthopaedic Association.<br>His clinical practice focuses on all aspects of hip and knee surgery, including hip and knee arthroscopy, reconstructions for sports injury, ACL and hamstring reconstructions, hip and knee replacements, and revision hip and knee surgery.</p>",
+            "description_speciality": "<p>Orthopaedics, Hip, Knee, Sports and trauma</p>",
+            "clinic_timetable": "<p>Working at Milano Centre on:</p> <ul><li>Monday: 8.00-13.00</li>                    <li>Tuesday: 8.00-20.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>                    </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: Konan@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": 2,
+            "services": 2
+    },
+        {
+            "id": 3,
+            "firstname": "Sara",
+            "lastname": "Barozzi",
+            "image": "assets/img/profiles/donna10.jpg",
+            "description": "<p>I qualified from Cape Town Medical School and undertook my surgical and oncoplastic training at St George's, Mount Vernon, Westminster and Royal Marsden Hospitals.<br>I am Consultant Breast Surgeon and Clinical Lead for Breast Surgery at the Royal Free Hospital and Honorary Senior Lecturer in Surgery at UCL.</p><p>",
+            "description_speciality": "<p>Plastic surgery, Rhinoplasty</p>",
+            "clinic_timetable": "<p>Working at Milano Centre on:</p> <ul><li>Monday: 8.00-13.00</li>                    <li>Tuesday: 8.00-12.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>  <li>Saturday: 8.00-15.00</li>                   </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: sara.b@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": 3,
+            "services": 3
+    },
+        {
+            "id": 4,
+            "firstname": "Matteo",
+            "lastname": "Guidi",
+            "image": "assets/img/profiles/uomo3.jpg",
+            "description": "<p>Dr. Matteo Guidi is a full-time Respiratory (Chest) specialist who manages acute and chronic conditions that affect the lungs including asthma, smoking-associated disorders (such as COPD/emphysema), infections, interstitial lung diseases and complex lung pathologies.</p><p>He works closely with specialist thoracic radiologists, pathologists and surgeons to achieve a multi-discipline approach to clinical diagnosis and treatment.</p>",
+            "description_speciality": "<p>Respiratory medicine</p>",
+            "clinic_timetable": "<p>Working at Segrate Centre on:</p> <ul> <li>Tuesday: 8.00-12.00</li>                    <li>Thursday: 10.00-19.00</li>    <li>Friday: 8.00-18.00</li>  <li>Saturday: 8.00-15.00</li></ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: matteo.g@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": 4,
+            "services": 4
+    },
+        {
+            "id": 5,
+            "firstname": "Vivek",
+            "lastname": "Mehta",
+            "image": "assets/img/profiles/uomo5.jpg",
+            "description": "<p>Dr Vivek Mehta is a Consultant in Pain Medicine and the Director of the Pain and Anaesthesia Research Centre at St Bartholomew’s Hospital.</p><p>His clinical commitments include outpatient consultations, performing intervention sessions, ward rounds, referrals from palliative care, multidisciplinary pain meetings.</p><p>Dr Mehta has a strong academic profile and has been invited to present his work and chair several national and international workshops (on average 10 a year), including teaching hands-on cadaver courses.</p>",
+            "description_speciality": "<p>Anaesthesia and Pain Management</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p><ul><li>Monday: 8.00-13.00</li>   <li>Tuesday: 8.00-12.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>  <li>Saturday: 8.00-15.00</li>                   </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: antonis.g@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 3
+    },
+        {
+            "id": 6,
+            "firstname": "Alessandra",
+            "lastname": "Scutti",
+            "image": "assets/img/profiles/donna13.jpg",
+            "description": "<p>Malignant diseases: acute leukaemia, lymphomas, myelodysplasia, myeloproliferative diseases, myeloma,Aplastic anaemia,General haematology.<br> 28 years experience as a doctor, 18 years as a consultant. Trained in general medicine, general haematology, malignant haematology, stem cell transplantation. Main areas of interest are in haematological malignancies, autologous and allogeneic stem cell transplantation.</p>",
+            "description_speciality": "<p>Haematology</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p> <ul><li>Monday: 8.00-13.00</li><li>Tuesday: 8.00-12.00</li><li>wednesday: 8.00-12.00</li></ul>        <p>Working at Segrate Centre on:</p>        <ul>    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>  <li>Saturday: 8.00-15.00</li>                   </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: alessandra.s@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 4
+    },
+        {
+            "id": 7,
+            "firstname": "Carolina",
+            "lastname": "Echevarria",
+            "image": "assets/img/profiles/donna4.jpg",
+            "description": "<p>Dr Carolina Echavarria has been a consultant endocrinologist at King’s College Hospital with broad clinical practice in endocrinology and special interests in tumours, thyroid disorders, adrenal tumours and cancer, neuroendocrine tumours, inherited endocrine tumour syndromes and hyponatraemia.</p><p>She graduated from Queens’ College Milan in 1987 and undertook clinical studies at the Royal London Hospital, qualifying in 1990. After MRCP in 1993 he undertook specialist endocrinology training and research studies at Bart’s and the Bologna leading to a PhD awarded in 2001.<br> Currently working and living in Milan.</p>",
+            "description_speciality": "<p>Diabetes And Endocrinology</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p><ul><li>Monday: 8.00-13.00</li><li>Tuesday: 8.00-12.00</li><li>wednesday: 8.00-12.00</li></ul>        <p>Working at Milano Centre on:</p>        <ul>    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-12.00</li>                    </ul> <p>Working at Segrate Centre on:</p>   <ul> <li>Friday: 14.00-18.00</li>  <li>Saturday: 8.00-15.00</li>                   </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: carolina.e@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 4
+    },
+        {
+            "id": 8,
+            "firstname": "Patrick",
+            "lastname": "Serafini",
+            "image": "assets/img/profiles/uomo8.jpg",
+            "description": "<p>Dr Patrick Serafini is a Consultant Neurologist. He trained in London in general medicine and carried out his specialist neurology training at The National Hospital for Neurology and Neurosurgery and The Institute of Neurology, Queen Square, London.</p><p>Dr Cockerell is a Private Neurologist. Previously he was a Clinical Director and former senior staff member at Barts and The London NHS Trust. He held the position of Senior Lecturer in Academic Neurology. He is Honorary Consultant at Padova and The Rome NHS Trust and is on the Thrombolysis Rota for Acute Stroke and runs an Epilepsy Clinic once a week at The Genova Hospital.<br> He lives and works in Milan.</p>",
+            "description_speciality": "<p>Neurology, Epilepsy</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p><ul><li>Monday: 8.00-13.00</li>                    <li>Tuesday: 8.00-20.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>                    </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: Patrick.s@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 5
+    },
+        {
+            "id": 9,
+            "firstname": "Gianluca",
+            "lastname": "Venturi",
+            "image": "assets/img/profiles/uomo11.jpg",
+            "description": "<p>Gianluca Venturi is Head of Podiatry at the Royal Free Hospital and previously Chief Podiatrist at Univeristy College Hospital, London. </p><p>He trained at the London Foot Hospital and undertook postgraduate research at Università di Modena e Reggio-Emilia.</p>",
+            "description_speciality": "<p>Podiatry and foot care</p>",
+            "clinic_timetable": "<p>Working at Milano Centre on:</p> <ul><li>Monday: 8.00-13.00</li>                    <li>Tuesday: 8.00-20.00</li>                    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-18.00</li>                    </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: gianluca.v@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 3
+    },
+        {
+            "id": 10,
+            "firstname": "Paolo",
+            "lastname": "Pivetta",
+            "image": "assets/img/profiles/uomo9.jpg",
+            "description": "<p>I am an interactive therapist interested in helping clients reduce symptoms of distress, usually anxiety or depression and explore with them the roots of their distress. I find whether it is addiction, eating disorders, chronic pain, or straight forward relationship issues, understanding the 'why' as well as the 'how' to fix it, helps the problem and symptoms subside. Clients that work with me finish therapy with a greater awareness of themselves which helps them avoid difficulties in the future.<br>I have experience working with cancer patients and their families, medically ill patients, PMS, infertility, miscarriage and postpartum depression. I've worked with eating disorders, addictions and chronic pain. I help with parenting and school issues. I enjoy working with couples as well as individuals and a portion of my practice is working with adolescents.<br> Graduated in Università La Sapienza of Rome, and years of practise in Ospedale Gemelli and as a private consultant.</p>",
+            "description_speciality": "<p>Psychologist</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p> <ul><li>Monday: 8.00-13.00</li><li>Tuesday: 8.00-12.00</li><li>wednesday: 12.00-18.00</li></ul>        <p>Working at Milano Centre on:</p>        <ul>    <li>Thursday: 10.00-15.00</li>                  <li>Friday: 8.00-12.00</li>                    </ul> <p>Working at Segrate Centre on:</p>   <ul> <li>Friday: 14.00-18.00</li>  <li>Saturday: 8.00-15.00</li>                   </ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: paolo.p@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": 5,
+            "services": 5
+    },
+
+        {
+            "id": 11,
+            "firstname": "Vittoria",
+            "lastname": "Stefani",
+            "image": "assets/img/profiles/donna12.jpg",
+            "description": "<p>Dr Vittoria Stefani is a radiology consultant subspecialising in neuroradiology. She is trained in radiology at Yorkshire. He achieved Pan London Neuroradiology fellowship and has achieved experience in 7 major neuroscience centres of excellence including King’s College, Great Ormond Street, and National Hospital for Neurology & Neurosurgery, Barts & The London NHS Trust and St Georges NHS.She has achieved PhD in atherosclerosis, vascular disease and genetics.Awarded a number of academic prizes and distinctions.</p><p>Academic - Research track<br>Cambridge, University of East Anglia, Yorkshire and University of London<br>Dr Stefani is well published and has presented his scientific work on numerous national and international meetings including presenting on dementia, vascular/atherosclerosis, genetics/paediatrics at the European Congress of Neuroradiology, British and Irish Vascular Society and Radiology Society of North America (RSNA).</p>",
+            "description_speciality": "<p>Radiology</p>",
+            "clinic_timetable": "<p>Working at Monza Centre on:</p> <ul><li>Monday: 8.00-13.00</li><li>Tuesday: 8.00-12.00</li><li>wednesday: 12.00-18.00</li></ul>",
+            "contact": "<ul><li>Phone:020 3763 7082</li><li>E-mail: paolo.p@newhorizionclinic.it</li><li>Fax: 0234 5987</li></ul>",
+            "services_responsible": -1,
+            "services": 1
+    }
+
+  ]
+}

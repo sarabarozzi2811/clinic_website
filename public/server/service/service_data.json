@@ -1,0 +1,44 @@
+{
+    "service": [{
+            "id": 1,
+
+            "name": "Diagnostic Imaging",
+
+            "description": "<p>Our specialist teams at The New Horizon Clinic work together to provide assessment, diagnosis and treatment for a wide range of bone and joint conditions. From knee arthroscopy to hip replacement surgery, our expert consultants can help to get you back on the move, quickly.<br> We have a range of diagnostic imaging available to ensure your orthopaedic consultant has all the information necessary to make a specific diagnosis and therefore tailor a treatment plan to you. </p>",
+            "avvertenze": "<p>Services always available</p><p>We understand that many tests can often be clinically urgent, so we are pleased to provide a radiologist-supported 24-hour emergency CT, MRI, ultrasound, interventional radiology and X-ray service to all inpatients. Our consultants have remote access to our systems so that they can immediately review the images and issue a report.</p>",
+            "doctor_responsible": 1
+      },
+        {
+            "id": 2,
+            "name": "Physiotherapy",
+
+            "description": "<p>The New Horizon Clinic’s team of experienced chartered physiotherapists provide a wide range of treatments to patients who are staying at the Clinic and also to those who come to us for outpatient treatment.<br>Every physiotherapist at The New Horizon Clinic is chartered, highly skilled and experienced.</p>",
+            "avvertenze": "<p>NEW AT THE CLINIC</p><p><li>Acupuncture</li><li>Hydrotherapy</li><li>Clinical Pilates-based rehabilitation</li></p>",
+            "doctor_responsible": 2
+      },
+        {
+            "id": 3,
+            "name": "Plastic/Cosmetic Surgery",
+
+            "description": "<p>People who come to The New Horizon Clinic for cosmetic surgery may have an imperfection that is affecting their confidence or self-esteem, such as a nose they think is too large or ears that stick out. Whatever the reason, the techniques and skills used by plastic at The New Horizon Clinic are among the best in the world.</p><p>We offer three main types of cosmetic breast surgery:<br>Breast augmentation surgery to increase the size of the breasts using implants<br>Breast reduction surgery to reduce the size of breasts<br>Breast lift surgery (mastopexy) to lift the breasts, restoring a more youthful appearance. A breast lift can also be performed with either a breast augmentation or a breast reduction.</p>",
+            "avvertenze": "<p> 'Cosmetic surgery of any sort should not be undertaken lightly. It's important to remember that all surgery, including cosmetic procedures, involves risks.' <br> Choose oure clinic to be sure of recieving high quality services!</p>",
+            "doctor_responsible": 3
+      },
+        {
+            "id": 4,
+            "name": "Analysis & Body Check-Up",
+
+            "description": "<p>Diseases are many, treatments are few. It is thus advisable to get an early detection of diseases in order to know the symptoms and to treat them in time.<br>The Whole Body Check-up Package includes a comprehensive check of all systems, including evaluation of cardiac systems, diabetes, liver function, etc. It gives a detailed assessment of the health status of an individual and is strongly recommended for all individuals having pre-existing illnesses like blood pressure, diabetes, or any other chronic illnesses.</p>",
+            "avvertenze": "<p>Analysis Offered: <br> General: CBC, ESR, Urine R/M, Stool R/M, Blood,Group, Chest X-Ray General Physical ExaminationIncluding: Basic Eye Checkup, Basic ENT Checkup, Dental Checkup; Diabetic Evaluation: Fasting Blood Sugar, PP Blood Sugar; NonInvasive Cardiac Risk Evaluation: ECG, Lipid Profile (Triglycerides, CholesterolTotal, HDL, LDL, VLDL, LDL/HDL Ratio, Cholesterol Total/HDL Ratio), TMT or 2DECHO, Liver Function Test With GGT: Bilirubin Total, Direct, Indirect SGOT, SGPT,Alkaline Phosphatase, GGT, LDH,serum Proteins (Total Protein, Albumin, Globulin,A/G Ratio); Renal Profile: Creatinine,BUN Uric Acid, Calcium, Phosphorus;RA Factor: Ultrasound Whole Abdomen</p>",
+            "doctor_responsible": 4
+      },
+        {
+            "id": 5,
+            "name": "Psychological support",
+
+            "description": "<p>We are committed to providing evidence based treatment and utilize empirically supported treatments.<br>Some of the types of problems addressed in the Clinic are:Depression,Autistic Spectrum Disorder,Anxiety Disorders,Family Problems,Self-Concept Problems,Social Skills,Health Concerns,Sexuality and Transition Issues,Relationship Problems.Individual adult, adolescent, and child, couple, and family treatments are available. <br>The Clinic is not committed to any single type of intervention. Services are tailored to meet the needs of the client.</p>",
+            "avvertenze": "<p>Psychological assessment services are provided on a referral basis or as a part of ongoing treatment. In addition to general psychological, personality, Autistic Spectrum, ADHD, learning disability, and cognitive tests, individuals of ALL ages, couple, and family assessments are available.  Assessment costs range from $200-$500 and only cash or check payments are accepted at our clinic.  Please consult us for further information.</p>",
+            "doctor_responsible": 10
+      }
+      ]
+}

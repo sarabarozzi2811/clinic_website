@@ -1,0 +1,55 @@
+{
+"service_doctor": [
+  {
+    "id_service":1,
+    "id_dottore":1
+  },
+
+  {
+   "id_service":1,
+    "id_dottore":11
+  },
+
+  {
+    "id_service":2,
+    "id_dottore":2
+  },
+
+  {
+      "id_service":2,
+    "id_dottore":9
+  },
+
+  {
+      "id_service":3,
+    "id_dottore":3
+  },
+
+  {
+      "id_service":3,
+    "id_dottore":5
+  },
+
+  {
+      "id_service":4,
+    "id_dottore":5
+  },
+
+  {
+    "id_service":4,
+    "id_dottore":6
+  },
+  {
+    "id_service":4,
+    "id_dottore":7
+  },
+  {
+    "id_service":5,
+    "id_dottore":10
+  },
+  {
+    "id_service":5,
+    "id_dottore":8
+  }
+]
+}

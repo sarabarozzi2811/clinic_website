@@ -1,0 +1,76 @@
+{
+"doctors_location": [
+  {
+    "id_dottore":1,
+    "id_location":1
+  },
+
+  {
+    "id_dottore":2,
+    "id_location":3
+  },
+
+  {
+    "id_dottore":3,
+    "id_location":2
+  },
+
+  {
+    "id_dottore":4,
+    "id_location":3
+  },
+
+  {
+    "id_dottore":5,
+    "id_location":2
+  },
+
+  {
+    "id_dottore":6,
+    "id_location":3
+  },
+
+  {
+    "id_dottore":6,
+    "id_location":1
+  },
+
+  {
+    "id_dottore":7,
+    "id_location":1
+  },
+  {
+    "id_dottore":7,
+    "id_location":2
+  },
+  {
+    "id_dottore":7,
+    "id_location":3
+  },
+  {
+    "id_dottore":8,
+    "id_location":1
+  },
+  {
+    "id_dottore":9,
+    "id_location":2
+  },
+  {
+    "id_dottore":10,
+    "id_location":1
+  },
+  {
+    "id_dottore":10,
+    "id_location":2
+  },
+  {
+    "id_dottore":10,
+    "id_location":3
+  },
+  {
+    "id_dottore":11,
+    "id_location":1
+  }
+  
+]
+}

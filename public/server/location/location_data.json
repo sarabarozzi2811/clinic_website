@@ -1,0 +1,40 @@
+{
+    "location": [
+        {
+            "id": 1,
+            "name": "Monza Centre",
+            "image": "assets/img/about_us_1080x442.jpg,assets/img/final2.jpg, assets/img/final3.jpg",
+            "description": "<p>The Monza Centre is located in the middle of the famouse Parco di Monza, offering beatiful scenery and relaxing places. <br>It is a new structure realised according to the most advanced criteria of architecture and sanitary organisation. The Centre is arranged in one floor at the ground floor to facilitate the access at all the patients, expetially the one with disabilities. <br>The visits rooms are equipped with diagnostic tools of last generation to guarantee accurate and personalised diagnoses. The structure is composed by three visit rooms, a new built gym, four rooms for various teraphy and a bigger room with the tools for Diagnostic Imaging. Abig parking space is located in front of the building.</p>",
+
+            "mappagoogle": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3002.69514935172!2d9.272551715700715!3d45.5935168791026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786b977d809ed0b%3A0x3de6b144bbe0ddfd!2sVilla+Reale!5e1!3m2!1sen!2sit!4v1498930851645",
+
+            "Address": "Viale Regina Margherita 15 - Monza",
+            "Number": "0393740345",
+            "Email": "monza@newhorizon.com",
+            "Orario": "Monday: 9.00-18.00    <br>                Tuesday: 9.00-18.00  <br>                 Wednesday: 10.00-15.00<br>                Thursday: 9.00-18.00   <br>                 Friday: 9.00-18.00 <br>                   Saturday: 11.00-14.00        <br>          Sunday: Closed"
+    },
+        {
+            "id": 2,
+            "name": "Milano Centre",
+            "image": "assets/img/final.jpg,assets/img/final3.png, assets/img/final5.jpg",
+            "description": "<p>The New Horizon Clinic-Milan is a private sanitary structure sited in Milan that offers outpatient Performances and Surgical Interventions in regime of Day Surgery. The aim is that one of providinging to the patient the attainment of the own psychophysical wellbeing as well as an improvement of the quality of life thanks to specific personalised procedures.<br> The Structure, which inherits a long tradition of outpatient and daily surgery, offers particularly the possibility of making interventions of plastic, aesthetic and general analysis with period in bed inferior to 24 hours, in comfortable chambers with free admission for relatives and companions. <br>The clinic is nested between the Duomo and the other city attraction, so is very easy to be reached with public trasport but also with private car. <br> We offer free parking space and the pick-up service for people who needs this, to make your arrival easier.</p>",
+             "mappagoogle": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d337.035206831056!2d9.1846963310586!3d45.4722408897931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4be0e8967db36a7e!2sGalleria+paolo+curti+%2F+Annamaria+Gambuzzi+%26+Co.!5e1!3m2!1sit!2sit!4v1497259284651" ,
+
+            "Address": "Via Pontaccio 19 - Milano",
+            "Number": "02 501727",
+            "Email": "milan@newhorizon.com",
+            "Orario": "Monday: 8.00-20.00   <br>                Tuesday: 8.00-20.00          <br>          Wednesday: 10.00-15.00  <br>                Thursday: 8.00-18.00     <br>               Friday: 8.00-20.00                <br>    Saturday: Closed<br>Sunday: Closed"
+    },
+        {
+            "id": 3,
+            "name": "Segrate Centre",
+            "image": "assets/img/final8.jpg,assets/img/final4.png, assets/img/final7.jpg",
+            "description": "<p>With modern medical and technical equipment, the latest treatment methods and a wide range of therapies, the New Horizon Clinic in Segrate, belongs to a high-quality class of rehabilitation facilities in Italy.<br>The cooperation of the specialized departments allows for interdisciplinary treatment for elderly and multimorbid patients. The Clinic maintains cooperation with a large number of insurance providers including, all statutory primary and secondary health insurance funds.</p>",
+             "mappagoogle": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0947232973917!2d9.30681408812822!3d45.47378514788124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe320ac42ee9435e!2sFarmacia+Airoldi+S.N.C.+Di+Airoldi+Giuseppe+E+Airoldi+Daniele!5e1!3m2!1sen!2sit!4v1498931096906",
+            "Address": "Piazza Centro Commerciale - Segrate",
+            "Number": "0316547347",
+            "Email": "segrate@newhorizon.com",
+            "Orario": "Monday: 9.00-18.00    <br>               Tuesday: 9.00-18.00      <br>             Wednesday: Closed    <br>              Thursday: 9.00-18.00     <br>              Friday: 12.00-18.00                <br>   Saturday: 11.00-14.00     <br>               Sunday: Closed"
+    }
+  ]
+}
